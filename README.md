@@ -1,1 +1,1 @@
-hate speech in Bengali language
+hate speech in Bengali language (Stemmed Corpus)
