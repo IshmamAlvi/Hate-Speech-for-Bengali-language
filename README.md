@@ -1,5 +1,7 @@
 Hate speech in Bengali language (Stemmed Corpus)
+
 We have published two papers on the project. If you use the dataset cite the paper below:
+
 
 @inproceedings{10.1145/3309700.3338457,
 author = {Ishmam, Alvi Md. and Arman, Jawad and Sharmin, Sadia},
@@ -25,6 +27,7 @@ author={A. M. {Ishmam} and S. {Sharmin}},
 booktitle={2019 18th IEEE International Conference On Machine Learning And Applications (ICMLA)},   
 title={Hateful Speech Detection in Public Facebook Pages for the Bengali Language},   
 doi = {https://doi.org/10.1109/ICMLA.2019.00104},
+
 year={2019},  
 volume={},  
 number={},  
