@@ -27,7 +27,6 @@ author={A. M. {Ishmam} and S. {Sharmin}},
 booktitle={2019 18th IEEE International Conference On Machine Learning And Applications (ICMLA)},   
 title={Hateful Speech Detection in Public Facebook Pages for the Bengali Language},   
 doi = {https://doi.org/10.1109/ICMLA.2019.00104},
-
 year={2019},  
 volume={},  
 number={},  
